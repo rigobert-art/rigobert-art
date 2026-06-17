@@ -15,7 +15,7 @@ I'm a **Project Manager at [iPF Softwares](https://www.ipfsoftwares.com)** — a
 
 ## 🛠️ Tech Stack
 
-**Backend:** Node.js · Express.js · MongoDB · Mongoose · JWT Auth · REST API Design
+**Backend:** Node.js · Express.js · MongoDB · Mongoose · JWT Auth · REST API Design · Python · Django · FAST API
 
 **Frontend (working knowledge):** React · TypeScript · Next.js
 
